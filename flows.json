@@ -73,7 +73,6 @@
         "id": "d49a14e240770314",
         "type": "telegram bot",
         "botname": "BotSENA",
-        "token": "${TELEGRAM_BOT_TOKEN}",
         "usernames": "",
         "chatids": "",
         "baseapiurl": "",
